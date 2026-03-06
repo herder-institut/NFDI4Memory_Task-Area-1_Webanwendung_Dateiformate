@@ -1,11 +1,11 @@
 # Readme zu Priorisierten Dateiformaten in den historisch arbeitenden Fächern
 
-**Ersteller*in Readme:** [Gomes, Sera Ria]
+**Creator Readme:** [Gomes, Sera Ria]
 
-**Erstellungsdatum Readme:** [20.02.2026]
+**Erstellungsdatum Readme:** [2026-02-20]
 
 ## Titel des Forschungsdatensatzes
-Interaktiver Tafel gängiger Dateiformate (Langzeitarchvierung)
+Interaktive Tafel gängiger Dateiformate (Langzeitarchvierung)
 
 ## Ort der Datenerhebung
 Marburg an der Lahn, Hessen, Deutschland
@@ -19,15 +19,15 @@ Marburg an der Lahn, Hessen, Deutschland
 
 ---
 
-## Ersteller*innen des Datensatzes
-- **Ersteller*in 1:** Gomes, Sera Ria
+## Creator
+-**Creator 1:** Gomes, Sera Ria
   - Identifier: [ORCID: 0009-0001-5237-9441]
   - Affiliation: Herder-Institut für Historische Ostmitteleuropaforschung - Institut der Leibniz-Gemeinschaft, Marburg, Hessen, Deutschland
 
-## Beteiligte
+## Contributor
 - **Körfer, Anna-Lena** [ORCID: 0009-0001-3362-9759]
   - Affiliation: Herder-Institut für Historische Ostmitteleuropaforschung - Institut der Leibniz-Gemeinschaft, Marburg, Hessen, Deutschland
-  - Typ: [ProjectLeader]
+  - Typ: [DataCurator]
 - **Pravdyuk, Anna** [ORCID: 0000-0001-7567-4008]
   - Affiliation: Herder-Institut für Historische Ostmitteleuropaforschung - Institut der Leibniz-Gemeinschaft, Marburg, Hessen, Deutschland
   - Typ: [ProjectMember]
@@ -42,10 +42,10 @@ NFDI4Memory
 [DFG GEPRIS-Portal: https://gepris.dfg.de/gepris/projekt/501609550?context=projekt&task=showDetail&id=501609550]
 
 ## Abstract
-Die Interaktive Tafel gängiger Dateiformate (Langzeitarchivierung) ist eine webbasierte Anwendung, die im Rahmen von Measure 1, Task 4 der Task Area "Data Quality" von NFDI4Memory entwickelt wurde. Sie richtet sich an Forschende aus den historisch arbeitenden Wissenschaften sowie an Mitarbeitende in Kultur- und Gedächtniseinrichtungen (GLAM-Institutionen).
+Die „Interaktive Tafel gängiger Dateiformate (Langzeitarchivierung)" ist eine webbasierte Anwendung, die im Rahmen von Measure 1, Task 4 der Task Area "Data Quality" von NFDI4Memory [https://4memory.de/] entwickelt wurde. Sie richtet sich an Forschende aus den historisch arbeitenden Wissenschaften sowie an Mitarbeitende in Kultur- und Gedächtniseinrichtungen (GLAM-Institutionen).
 
 ## Inhalt und Entstehungskontext
-Die Anwendung stellt eine kuratierte Übersicht gängiger Dateiformate bereit, die auf den Ergebnissen einer Community-weiten Umfrage zu Praktiken, Standards und Bedarfen zur Datenqualität in den historisch arbeitenden Disziplinen basiert (DOI: 10.5281/zenodo.17434287). Die Auswahl der Dateiformate sowie ihre Bewertung orientieren sich an der Handreichung der Task Area „Data Quality" und an Konventionen etablierter Institutionen wie KOST-CECO, Landesinitiative Langzeitverfügbarkeit des NRW und dem Schweizerischen Bundesarchiv.
+Die Anwendung stellt eine kuratierte Übersicht gängiger Dateiformate bereit, die auf den Ergebnissen einer Community-weiten Umfrage zu Praktiken, Standards und Bedarfen zur Datenqualität in den historisch arbeitenden Disziplinen basiert (DOI: 10.5281/zenodo.17434287). Die Auswahl der Dateiformate sowie ihre Bewertung orientieren sich an der Handreichung der Task Area „Data Quality" und an Konventionen etablierter Institutionen wie KOST-CECO, der Landesinitiative Langzeitverfügbarkeit des NRW und dem Schweizerischen Bundesarchiv.
 
 ## Struktur und Aufbau
 Die Datenbasis umfasst tabellarisch strukturierte Informationen zu Dateiformaten, gegliedert nach folgenden Spalten: Dateiart (Kategorie, z. B. Text & Textverarbeitung, Bild & Vektorgrafiken, Multimedia & Musik, Daten & Tabellen), Datenformat (spezifisches Format bzw. Dateiendung), Ampelstatus (Empfehlungsstatus zur Langzeitarchivierung) sowie Quelle(n) (Referenz auf zugrunde liegende Empfehlungen).
@@ -56,18 +56,22 @@ Die Webanwendung umfasst den Quellcode (HTML, CSS, JavaScript) sowie die zugrund
 
 Die Anwendung ist unter einer Creative Commons Attribution 4.0 International Lizenz (CC BY 4.0) frei zugänglich.
 
+## **Beginn der Bearbeitung**: [2025-04-01]
+
+## **Ende der Bearbeitung**: [2026-03-06]
+
 ###### **Schlagwörter**:					    [Forschungsdatenmanagement]
                                       [NFDI4Memory]
                                       [Geschichtswissenschaft]
                                       [Datenqualität]
                                       [Datenqualitätsmanagement]
-                                      [Data Quality Assessment]
-                                      [Datensammlung]
-                                      [Repositorium]
+                                      [Dateiformate]
                                       [Data set]
+                                      [Webanwendung]
+                                      [Langzeitarchivierung]
 
 ## Methode der Datenerhebung
-[Händische Online-Recherche in Datenbanken sowie Portalen, Repositorien, digitalen Archiven und Datenaggregationsdiensten]
+[Online-Recherche von entsprechenden Tools, Grundlagenliteratur und Konventionen zur Dateibenennung; händische tabellarische Listung; Aufbau einer webbasierten Anwendung im HTML-Format]
 
 ---
 
