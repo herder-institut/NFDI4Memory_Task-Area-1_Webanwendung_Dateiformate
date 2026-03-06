@@ -15,6 +15,8 @@ Marburg an der Lahn, Hessen, Deutschland
 
 ## Herausgeber*in: [Herder-Institut für Historische Ostmitteleuropaforschung - Institut der Leibniz-Gemeinschaft]
 
+## Lizenzierung: [Creative Commons Namensnennung-Share Alike 4.0 International CC BY-SA 4.0]
+
 **Herausgeber*in Identifier:** [GND: 3024025-6]
 
 ---
@@ -54,7 +56,7 @@ Der Ampelstatus unterscheidet zwischen drei Kategorien: empfohlen (grün), bedin
 
 Die Webanwendung umfasst den Quellcode (HTML, CSS, JavaScript) sowie die zugrunde liegende Datendatei, aus der die interaktive Tabelle dynamisch generiert wird. Die Anwendung liest die Daten ein und ermöglicht eine filterbasierte Ansicht nach Dateikategorie und Empfehlungsstatus.
 
-Die Anwendung ist unter einer Creative Commons Attribution 4.0 International Lizenz (CC BY 4.0) frei zugänglich.
+Die Anwendung ist unter einer Creative Commons Namensnennung-Share Alike 4.0 International CC-BY-SA zugänglich.
 
 ## **Beginn der Bearbeitung**: [2025-04-01]
 
