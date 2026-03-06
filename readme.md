@@ -39,7 +39,7 @@ Marburg an der Lahn, Hessen, Deutschland
 
 ## Projektname
 NFDI4Memory
-[DFG GEPRIS-Portal: https://gepris.dfg.de/gepris/projekt/501609550?context=projekt&task=showDetail&id=501609550&]
+[DFG GEPRIS-Portal: https://gepris.dfg.de/gepris/projekt/501609550?context=projekt&task=showDetail&id=501609550]
 
 ## Abstract
 Die Interaktive Tafel gängiger Dateiformate (Langzeitarchivierung) ist eine webbasierte Anwendung, die im Rahmen von Measure 1, Task 4 der Task Area "Data Quality" von NFDI4Memory entwickelt wurde. Sie richtet sich an Forschende aus den historisch arbeitenden Wissenschaften sowie an Mitarbeitende in Kultur- und Gedächtniseinrichtungen (GLAM-Institutionen).
